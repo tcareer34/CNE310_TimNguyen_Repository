@@ -9,7 +9,7 @@ often resulting in funny or unexpected outcomes.
 
 Getting Started
 
-These instructions will help you install Pycharm on your local machine to be able to run the Mad Lib project.
+These instructions will help you install PyCharm on your local machine to be able to run the Mad Lib project.
 
 Prerequisites
 
